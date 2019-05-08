@@ -1,0 +1,19 @@
+version: '2'
+services:
+  jhipster-rabbit:
+    image: 'rabbitmq:3-management'
+    # volumes:
+    #     - ~/volumes/jhipster/jhipsterRabbitmqExample/mysql/:/var/lib/mysql/
+    hostname: rabbit_node_1
+    environment:
+      - MYSQL_USER=root
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+      - MYSQL_DATABASE=jhipsterrabbitmqexample
+    ports:
+      - '15672:15672'
+      - '5672:5672'
+      - '5671:5671'
+    labels:
+      NAME: 'jhipsterrabbit'
+#        volumes:
+#            - "./enabled_plugins:/etc/rabbitmq/enabled_plugins"

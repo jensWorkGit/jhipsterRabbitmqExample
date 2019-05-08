@@ -11,7 +11,7 @@
     "uaaBaseName": "../uaa",
     "cacheProvider": "ehcache",
     "enableHibernateCache": true,
-    "websocket": false,
+    "websocket": true,
     "databaseType": "sql",
     "devDatabaseType": "h2Disk",
     "prodDatabaseType": "mysql",
@@ -21,10 +21,7 @@
     "buildTool": "gradle",
     "useSass": true,
     "clientPackageManager": "npm",
-    "testFrameworks": [
-      "gatling",
-      "protractor"
-    ],
+    "testFrameworks": ["gatling", "protractor"],
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": [
