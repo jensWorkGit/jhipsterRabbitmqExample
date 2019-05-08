@@ -1,0 +1,23 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Yangi Department qo`shish",
+        "createOrEditLabel": "Departmentni tahrirlash"
+      },
+      "created": "Department {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Department saqlandi",
+      "deleted": "{{ param }}- Department o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Departmentni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "employee": "Employee"
+    }
+  }
+}

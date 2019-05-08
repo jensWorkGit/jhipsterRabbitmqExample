@@ -1,0 +1,25 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "createLabel": "Yangi Job qo`shish",
+        "createOrEditLabel": "Jobni tahrirlash"
+      },
+      "created": "Job {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Job saqlandi",
+      "deleted": "{{ param }}- Job o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Jobni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "employee": "Employee",
+      "task": "Task"
+    }
+  }
+}

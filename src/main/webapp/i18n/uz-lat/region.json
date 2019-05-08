@@ -1,0 +1,21 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "createLabel": "Yangi Region qo`shish",
+        "createOrEditLabel": "Regionni tahrirlash"
+      },
+      "created": "Region {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Region saqlandi",
+      "deleted": "{{ param }}- Region o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Regionni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "regionName": "Region Name"
+    }
+  }
+}

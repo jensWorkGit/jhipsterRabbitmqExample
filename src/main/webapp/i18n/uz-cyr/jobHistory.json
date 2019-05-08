@@ -1,0 +1,26 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "createLabel": "Янги Job History қўшиш",
+        "createOrEditLabel": "Job Historyни таҳрирлаш"
+      },
+      "created": "Job History {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Job History сақланди.",
+      "deleted": "{{ param }}- Job History ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Job Historyни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

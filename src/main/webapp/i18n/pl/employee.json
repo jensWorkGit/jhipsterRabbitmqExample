@@ -1,0 +1,33 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "employee": {
+      "home": {
+        "title": "Employee",
+        "createLabel": "Dodaj Employee",
+        "createOrEditLabel": "Dodaj lub edytuj: Employee"
+      },
+      "created": "Utworzono nowy obiekt typu Employee z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Employee z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Employee z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Employee {{ id }}?"
+      },
+      "detail": {
+        "title": "Employee"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "department": "Department",
+      "job": "Job",
+      "manager": "Manager",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "task": {
+      "home": {
+        "title": "Tasks",
+        "createLabel": "Yangi Task qo`shish",
+        "createOrEditLabel": "Taskni tahrirlash"
+      },
+      "created": "Task {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Task saqlandi",
+      "deleted": "{{ param }}- Task o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Taskni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Task"
+      },
+      "title": "Title",
+      "description": "Description",
+      "job": "Job"
+    }
+  }
+}

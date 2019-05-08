@@ -1,0 +1,26 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "createLabel": "Yangi Job History qo`shish",
+        "createOrEditLabel": "Job Historyni tahrirlash"
+      },
+      "created": "Job History {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Job History saqlandi",
+      "deleted": "{{ param }}- Job History o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Job Historyni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

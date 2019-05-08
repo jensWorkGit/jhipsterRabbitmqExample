@@ -1,0 +1,33 @@
+{
+  "jhipsterRabbitmqExampleApp": {
+    "employee": {
+      "home": {
+        "title": "Employees",
+        "createLabel": "Yangi Employee qo`shish",
+        "createOrEditLabel": "Employeeni tahrirlash"
+      },
+      "created": "Employee {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Employee saqlandi",
+      "deleted": "{{ param }}- Employee o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Employeeni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Employee"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "department": "Department",
+      "job": "Job",
+      "manager": "Manager",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}
